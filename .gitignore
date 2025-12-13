@@ -8,6 +8,7 @@ __pycache__/
 .DS_Store
 .venv
 *.csv
+*.npy
 
 # Distribution / packaging
 .Python
